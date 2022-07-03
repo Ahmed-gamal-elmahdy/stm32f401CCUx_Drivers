@@ -1,8 +1,8 @@
 
 # ADC & LM35 driver file
 
-Read teamprature from LM35 teamprature sensor , covert it to digital and display on 
-16x2 (LM016L) LCD screen using Stm32f401ccu MCU with 3 volt ref voltage. 
+Read temperature from LM35 temperature sensor , covert it to digital and display on 16x2 (LM016L)
+LCD screen using Stm32f401ccu MCU with 3 volt ref voltage
 
 
 
